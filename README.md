@@ -244,17 +244,17 @@ Pake's development can not be without these Hackers. They contributed a lot of c
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/wanghanzhen">
-            <img src="https://avatars.githubusercontent.com/u/25301012?v=4" width="90;" alt="wanghanzhen"/>
-            <br />
-            <sub><b>Volare</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/drTYT">
             <img src="https://avatars.githubusercontent.com/u/89690822?v=4" width="90;" alt="drTYT"/>
             <br />
             <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wanghanzhen">
+            <img src="https://avatars.githubusercontent.com/u/25301012?v=4" width="90;" alt="wanghanzhen"/>
+            <br />
+            <sub><b>Volare</b></sub>
         </a>
     </td></tr>
 <tr>
